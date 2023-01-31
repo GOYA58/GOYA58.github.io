@@ -23,3 +23,5 @@
 email：songsenand@gmail.com
 
 2015年 - 2017年
+
+作者github：https://github.com/songsenand/weiqi_board
